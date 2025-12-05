@@ -75,7 +75,7 @@ void part2(){
         output += (get<1>(p) - get<0>(p) + 1);
     }
 
-    cout << to_string(output) << endl;
+    cout << output << endl;
 }
 
 int main(){
